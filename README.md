@@ -1,5 +1,3 @@
-![Mobile version](./src/images/landing_mobile.png)![Tablet version](./src/images/landing_tablet.png)![Desktop version](./src/images/landing_desktop.png)
-
 # **Anonymous Proxy Landing Page**
 
 Module 1 final project of the Adalab Digital Frontend Development Bootcamp.
