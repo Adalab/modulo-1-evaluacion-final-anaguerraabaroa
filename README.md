@@ -1,4 +1,4 @@
-![Mobile version](./src/images/landing_mobile.png) ![Tablet version](./src/images/landing_tablet.png) ![Desktop version](./src/images/landing_desktop.png)
+![Mobile version](./src/images/landing_mobile.png)![Tablet version](./src/images/landing_tablet.png)![Desktop version](./src/images/landing_desktop.png)
 
 # **Anonymous Proxy Landing Page**
 
