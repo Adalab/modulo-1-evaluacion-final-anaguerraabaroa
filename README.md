@@ -1,4 +1,4 @@
-![Anonymous Proxy Banner](https://www.bacancytechnology.com/blog/wp-content/uploads/2019/05/Top-10-17-5-2019-Banner-1024x352.jpg)
+![Mobile version](./src/images/landing_mobile.png) ![Tablet version](./src/images/landing_tablet.png) ![Desktop version](./src/images/landing_desktop.png)
 
 # **Anonymous Proxy Landing Page**
 
@@ -82,9 +82,9 @@ Anonymous Proxy Landing Page
 │   │    ├── ico-arrow.jpg
 │   │    ├── ico-menu.svg
 │   │    ├── ico-scroll-down.svg
-│   │    ├── landing_desktop.jpg
-│   │    ├── landing_mobile.jpg
-│   │    └── landing_tablet.jpg
+│   │    ├── landing_desktop.png
+│   │    ├── landing_mobile.png
+│   │    └── landing_tablet.png
 │   └── scss
 │       ├── components
 │       │   └── _typography.scss
@@ -111,10 +111,6 @@ Anonymous Proxy Landing Page
 ├── README.md
 └── robots.txt
 ```
-
-## **Screenshots**
-
-![Mobile version](./src/images/landing_mobile.jpg) ![Tablet version](./src/images/landing_tablet.jpg) ![Desktop version](./src/images/landing_desktop.jpg)
 
 ## **License**
 
