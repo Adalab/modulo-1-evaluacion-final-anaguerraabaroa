@@ -62,7 +62,7 @@ git push
 ## **Folder Structure**
 
 ```
-AnonymousProxyLandingPage
+Anonymous Proxy Landing Page
 ├── docs
 ├── node_modules
 ├── public
