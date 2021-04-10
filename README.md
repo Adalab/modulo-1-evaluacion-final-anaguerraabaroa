@@ -18,7 +18,7 @@ git clone [repository]
 npm install
 ```
 
-- Run project on local server
+- Run project on local server:
 
 ```
 npm start
