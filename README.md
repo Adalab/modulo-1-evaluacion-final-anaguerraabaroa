@@ -32,7 +32,7 @@ npm start
 
 - **[Project URL](https://anaguerraabaroa.github.io/anonymous-proxy-landing-page/)** is also available on GitHub Pages.
 
-## **Project features**
+## **Features**
 
 - Responsive web design for mobile, tablet and desktop devices
 - Fixed header navigation menu with fake links
